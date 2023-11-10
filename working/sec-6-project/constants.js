@@ -1,0 +1,1 @@
+export const API_URL = 'https://nextjs-course-d2d54-default-rtdb.asia-southeast1.firebasedatabase.app/events.json'
