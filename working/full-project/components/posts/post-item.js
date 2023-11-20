@@ -1,6 +1,6 @@
 import styles from './post-item.module.css';
 import Link from 'next/link';
-import Image from 'next/image';
+import Image from "next/legacy/image";
 
 function PostItem({ post }) {
   const { title, image, excerpt, date, slug } = post;

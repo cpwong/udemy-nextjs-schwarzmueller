@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from "next/legacy/image";
 import Markdown from 'react-markdown';
 import styles from './post-content.module.css';
 import PostHeader from './post-header';

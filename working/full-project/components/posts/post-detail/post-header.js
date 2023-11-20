@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from "next/legacy/image";
 import styles from './post-header.module.css';
 
 export default function PostHeader({ title, image }) {
